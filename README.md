@@ -18,4 +18,4 @@ int main() {
 ```
 
 ## Docs
-Doxygenerated document can be found [here](docs/html/index.html).
+Doxygenerated document can be found in `docs/html` folder.
